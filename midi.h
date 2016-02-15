@@ -14,8 +14,8 @@
 /*
  * Como identificar cada nota
  * Ejemplo: NOTE_DO_0
- *    Nota DO de la primeria octava, 
- *    el número al final representa la octava 
+ *    Nota DO de la primeria octava,
+ *    el número al final representa la octava
  *    se empieza a contar con el 0
  * Ejemplo: NOTE_RE_1_
  *    Nota RE sostenido de la segunda octava,
